@@ -1,0 +1,21 @@
+h2{
+    color: greenyellow;
+}
+
+.Estrutura{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 700px;
+}
+
+.conteudo{
+    width: 500px;
+    height: 800px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
